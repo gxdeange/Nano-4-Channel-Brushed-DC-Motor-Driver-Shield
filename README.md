@@ -9,8 +9,9 @@ This image is the Prototype and there will be two Low voltage variants in the ne
 1: Power is derived from the Nano or,
 2: The driver board has a USB mini connector and feeds 5V to the VIN pin on the Nano
 
-![IMG_1949](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/7aef6306-b8eb-458b-b590-0060eddad656) ![IMG_1950](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/1cf387c9-f495-48c8-b6cb-4ede07e43d07)
+![IMG_1949](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/7aef6306-b8eb-458b-b590-0060eddad656)  ![IMG_1950](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/1cf387c9-f495-48c8-b6cb-4ede07e43d07)
 
+![Motor Driver Connections](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/059643d7-e352-4cce-ba37-4f87f8bbb1e0)  ![Motor Driver Connections](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/b1c21576-3d81-4e9b-b26b-76d8b45f1341)
 
 
 
