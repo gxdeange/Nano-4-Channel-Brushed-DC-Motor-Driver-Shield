@@ -11,5 +11,6 @@ This image is the Prototype and there will be two Low volateg variants in the ne
 
 ![IMG_1949](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/7aef6306-b8eb-458b-b590-0060eddad656)
 
+![IMG_1950](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/1cf387c9-f495-48c8-b6cb-4ede07e43d07)
 
 
