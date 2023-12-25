@@ -1,18 +1,16 @@
-# Nano-Motor-Driver-Shield
+# Nano-Motor-Driver-Shield 5V
+
 Low voltage 4 Channel Motor Driver board the allows an Arduino Nano to plug on top
 
 Drive pins are D3, D5, D7 and D9
 Power is derived from the Nano 5V pin
 
-This image is the Prototype and there will be two Low voltage variants in the near future:
+<img width="316" alt="Nano Motor Shield" src="https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/35541d4a-6f3c-4aca-8289-e9984769763c">
 
-1: Power is derived from the Nano or,
-2: The driver board has a USB mini connector and feeds 5V to the VIN pin on the Nano
+This version has the power feed directly from the USB plug and then feeds power to the Nano (via the VIN pin)
 
-![IMG_1949](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/7aef6306-b8eb-458b-b590-0060eddad656)  ![IMG_1950](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/1cf387c9-f495-48c8-b6cb-4ede07e43d07)
+<img width="319" alt="Nano Motor Driver" src="https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/5a0fee42-24d7-49bb-bb1c-3cfcb6e3c1a8">
 
-![Motor Driver Connections](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/059643d7-e352-4cce-ba37-4f87f8bbb1e0)  ![Motor Driver Top](https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/ae778a0c-02b3-4049-a10a-c80a323af7b4)
+# Motor Connections
 
-
-
-
+<img width="953" alt="Nano Motor Connections" src="https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/b49d041d-d482-400e-a0fa-df3bc2df818b">
