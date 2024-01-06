@@ -1,4 +1,4 @@
-# Nano-Motor-Driver-Shield 5V
+# Nano DC Motor Driver Shield @5V
 
 Low voltage 4 Channel DC Motor Driver board that allows an Arduino Nano to plug on top
 
