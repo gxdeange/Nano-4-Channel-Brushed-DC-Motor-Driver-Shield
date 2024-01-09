@@ -11,7 +11,7 @@ This version has the power feed directly from the USB plug and then feeds power 
 
 <img width="319" alt="Nano Motor Driver" src="https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/5a0fee42-24d7-49bb-bb1c-3cfcb6e3c1a8">
 
-# Nanao DC Motor Driver SHield @ 18V Max
+# Nano DC Motor Driver SHield @ 18V Max
 
 This board allows reverse or forward rotaion of DC motor (Brushed DC Only) and has PWM functionality on M1, M2 and M4
 
