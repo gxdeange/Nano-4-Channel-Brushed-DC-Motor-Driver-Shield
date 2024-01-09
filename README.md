@@ -2,7 +2,13 @@
 
 Low voltage 4 Channel DC Motor Driver board that allows an Arduino Nano to plug on top
 
-Drive pins are D3, D5, D7 and D9
+Drive pins are,
+
+* D3 - M1
+* D5 - M2
+* D7 - M3
+* D9 - M4
+
 Power is derived from the Nano 5V pin
 
 <img width="316" alt="Nano Motor Shield" src="https://github.com/gxdeange/Nano-Motor-Driver-Shield/assets/57690555/35541d4a-6f3c-4aca-8289-e9984769763c">
